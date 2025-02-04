@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "553589704813",
+    "project_id": "halogen-valve-448915-r8",
+    "storage_bucket": "halogen-valve-448915-r8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553589704813:android:0c65ba8d530c371548d764",
+        "android_client_info": {
+          "package_name": "com.example.maps_test_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5XkSkTujnTN3LUG_GYdGp1NzKZHOX8Kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
